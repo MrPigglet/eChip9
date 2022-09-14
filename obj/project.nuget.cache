@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hjXIYE9ttysACFLYSIzO8Zw57IC+UQD4UhuCBe22Kh1WkqMBz7CrQjS9+C4lY8ahtLiCYi3u4NJ6mU/+GAvutQ==",
+  "success": true,
+  "projectFilePath": "E:\\Skola\\Desktop\\eChip9 - Gymnasiearbete\\Source Code - Commented\\eChip9\\eChip9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
